@@ -1,5 +1,5 @@
 output/
-data/
+*.zip
 *.pkl
 *.pdf
 *.jpeg
