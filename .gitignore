@@ -1,0 +1,8 @@
+output/
+data/
+*.pkl
+*.pdf
+*.jpeg
+*.png
+*.jpg
+*.csv
