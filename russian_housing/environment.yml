@@ -1,0 +1,8 @@
+name: russian_housing
+dependencies:
+- python=3.6
+- anaconda
+- pip
+- numpy
+- pandas
+- matplotlib

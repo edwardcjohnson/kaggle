@@ -1,0 +1,9 @@
+name: ny_taxi
+dependencies:
+- python=3.6
+- anaconda
+- pip
+- numpy
+- pandas
+- matplotlib
+- geopy

@@ -1,0 +1,8 @@
+output/
+*.zip
+*.pkl
+*.pdf
+*.jpeg
+*.png
+*.jpg
+*.csv
